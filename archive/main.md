@@ -3,6 +3,11 @@ AES keys that unlock the main files.
 
 Most of these were grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Bizzfarts & 0x41414141!
 
+## Season 2
+| Version           | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 2.xx              | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4    |
+
 ## Season 3
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
