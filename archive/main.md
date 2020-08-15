@@ -90,3 +90,10 @@ Most of these were grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWb
 | 12.50             | 0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C    |
 | 12.60             | 0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C    |
 
+## Season 13
+| Version           | Key                                                                   |                        
+| ----------------- | --------------------------------------------------------------------- | 
+| 13.00             | 0x2BA4708C17ABF803AB821C0C89FA1CF3DFE7AA91D526D2E11526BC1AC4E34D13    |
+| 13.20             | 0x7F851D7E72C27CB0BFD76878E249801373DEC3C40707AF9A0C93FD7FC5153DBF    |
+| 13.30             | 0x642CA35C21741BB86FEB40CE220693B60B04EEA685285E0A2D553D4631FD2AEC    |
+| 13.40             | 0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D    |
