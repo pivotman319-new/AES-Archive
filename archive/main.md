@@ -102,3 +102,8 @@ Most of these were grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWb
 | 13.20             | 0x7F851D7E72C27CB0BFD76878E249801373DEC3C40707AF9A0C93FD7FC5153DBF    |
 | 13.30             | 0x642CA35C21741BB86FEB40CE220693B60B04EEA685285E0A2D553D4631FD2AEC    |
 | 13.40             | 0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D    |
+
+## Season 14
+| Version           | Key                                                                   |                        
+| ----------------- | --------------------------------------------------------------------- | 
+| 14.00             | 0x229A785CCE84A6F149BFAE69F5AD742983AA3504149A75F60313A1296B917763    |
