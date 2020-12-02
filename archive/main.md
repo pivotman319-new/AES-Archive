@@ -113,3 +113,8 @@ Most of these were grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWb
 | 14.40             | 0xAB32BAB083F7D923A33AA768BC64B64BF62488948BD49FE61D95343492252558    |
 | 14.50             | 0xD1261C98A200B3413BE96D8A2DE608EE23D3189B7588F6D9851B9E7E14C3B6CF    |
 | 14.60             | 0xCF47F08CEEDD6A0A86D3D67DD0C25924FE934676B86A3777A36B7E353EB35C09    |
+
+## Season 15
+| Version           | Key                                                                   |                        
+| ----------------- | --------------------------------------------------------------------- | 
+| 15.00             | 0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2    |
