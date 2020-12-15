@@ -118,3 +118,4 @@ Most of these were grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWb
 | Version           | Key                                                                   |                        
 | ----------------- | --------------------------------------------------------------------- | 
 | 15.00             | 0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2    |
+| 15.10             | 0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE    |
