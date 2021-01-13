@@ -119,3 +119,4 @@ Most of these were grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWb
 | ----------------- | --------------------------------------------------------------------- | 
 | 15.00             | 0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2    |
 | 15.10             | 0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE    |
+| 15.20             | 0x36983D73A17CAF253F9D1A322A79D6DC53D8E81B661B7564343F41D4835275D5    |
